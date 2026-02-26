@@ -1,3 +1,19 @@
+
+# Hi, I'm Andre Lavigne👋
+### DeFi Engineer | AI & Web3 Logic Enthusiast
+
+I build intelligent, block-aware systems that bridge the gap between AI decision-making and decentralized finance.
+
+- 🔭 I’m currently working on **[DeFi-Logic-Engine]**
+- ⚡ **Fun Fact:** I automate my arbitrage checks so I can sleep while the bots work.
+- 📫 How to reach me: linked in  | dre420.dl@gmail.com
+
+### 🛠 Tech Stack
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+
 # ⚡ DeFi Logic Engine v1.0
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
